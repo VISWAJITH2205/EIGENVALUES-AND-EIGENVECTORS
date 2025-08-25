@@ -32,7 +32,8 @@ print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
 ```
 ## Output:
 
-<img width="1105" height="129" alt="Screenshot 2025-08-21 094728" src="https://github.com/user-attachments/assets/3f48639a-f836-4fea-a856-ed9bf9031aff" />
+<img width="1173" height="597" alt="Screenshot 2025-08-25 211810" src="https://github.com/user-attachments/assets/998d8646-21ef-4729-8f40-48a039d519c4" />
+
 
 
 ## Result:
